@@ -1,1 +1,2 @@
-# Test2
+# Initial shop
+for creating amazed projects and so on
